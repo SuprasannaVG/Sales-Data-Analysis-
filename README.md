@@ -9,9 +9,9 @@ Sales data analysis plays a crucial role in understanding the performance of var
 # Dataset Used:
 The dataset used for this project consists of historical sales data of multiple products, including information such as product ID, product name, sales quantity, sales revenue, customer demographics, and transaction details. The dataset may also include additional attributes such as date of sale, geographical location, and sales channel.
 
-# Implementation (Power BI Dashboard):
+# Implementation :
+![Sales2](https://github.com/SuprasannaVG/Sales-Data-Analysis-/assets/125822020/4fac222c-962d-4d36-8235-021df868cbe9)
 
-![Sales1](https://github.com/SuprasannaVG/Sales-Data-Analysis-/assets/125822020/4e825fac-61a8-4eb2-b9e5-9bda211f349e)
 
 
 
@@ -26,8 +26,8 @@ Power BI Dashboard Creation: With the insights gained from data analysis, we cre
 
 Advanced Analytics: In addition to basic sales analysis, we can incorporate advanced analytics techniques such as forecasting, trend analysis, and predictive modeling to anticipate future sales trends and make proactive business decisions. Power BI offers built-in tools and integrations with machine learning models to perform advanced analytics directly within the dashboard.
 
-![Sales2](https://github.com/SuprasannaVG/Sales-Data-Analysis-/assets/125822020/4fac222c-962d-4d36-8235-021df868cbe9)
 
+![Sales1](https://github.com/SuprasannaVG/Sales-Data-Analysis-/assets/125822020/4e825fac-61a8-4eb2-b9e5-9bda211f349e)
 
 # Advantages of Project:
 
